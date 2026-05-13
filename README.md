@@ -1,5 +1,8 @@
+<p align="center">
+
 #  GitParty
 
+</p>
 
 <p align="center">
   Plataforma moderna de gerenciamento de eventos, inscrições e organização de participantes.
@@ -238,13 +241,6 @@ Tela completa de informações do evento.
 
 ---
 
-#  Tipografia
-
-```txt
-Inter
-DM Sans
-```
-
 ---
 
 #  Público-Alvo
@@ -377,13 +373,6 @@ Layout:
 
 ---
 
-#  Screenshots
-
-##  Home
-```txt
-Adicione aqui a screenshot da Home.
-```
-
 ---
 
 # 🔗 Referências
@@ -400,12 +389,6 @@ Heroicons
 ```
 
 ---
-
-#  Autor
-
-```txt
-Juliano Rafael
-```
 
 GitHub:
 ```txt
