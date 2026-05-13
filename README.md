@@ -1,6 +1,6 @@
 <p align="center">
 
-#  GitParty
+#GitParty
 
 </p>
 
