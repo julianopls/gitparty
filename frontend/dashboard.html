@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+
+  <div class="logo">Evently</div>
+
+  <nav>
+    <a class="active">Painel</a>
+    <a>Eventos</a>
+    <a>Cronogramas</a>
+    <a>Participantes</a>
+  </nav>
+
+  <div class="actions">
+
+    <input type="text" placeholder="Buscar...">
+
+    <button class="purple-btn" onclick="abrirAdmin()">
+      Criar Evento
+    </button>
+
+  </div>
+
+</header>
+
+<section class="dashboard">
+
+  <div class="left">
+
+    <div class="title">
+      <h1>Explorar Eventos</h1>
+      <p>Descubra experiências incríveis.</p>
+    </div>
+
+    <h2>Minhas Inscrições</h2>
+
+    <div class="card-inscricao">
+      <span class="status purple">CONFIRMADA</span>
+      <h3>Tech Leadership Summit</h3>
+      <p>15 Out, 09:00</p>
+    </div>
+
+    <div class="card-inscricao">
+      <span class="status orange">LISTA ESPERA</span>
+      <h3>Design Systems Workshop</h3>
+      <p>22 Out, 14:00</p>
+    </div>
+
+  </div>
+
+  <div class="right">
+
+    <div class="evento-card">
+
+      <img src="https://images.unsplash.com/photo-1511578314322-379afb476865?q=80&w=1200&auto=format&fit=crop">
+
+      <div class="evento-info">
+
+        <h2>Global Innovators Summit 2024</h2>
+
+        <p>Centro de Convenções, São Paulo</p>
+
+        <div class="progress">
+          <div class="bar"></div>
+        </div>
+
+        <button onclick="abrirEvento()">
+          Inscrever-se Agora
+        </button>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+<script src="script.js"></script>
+
+</body>
+</html>

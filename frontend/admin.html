@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Admin</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="admin-layout">
+
+  <aside class="sidebar">
+
+    <div class="profile">
+      <img src="https://i.pravatar.cc/100">
+      <h2>Painel Administrativo</h2>
+    </div>
+
+    <nav>
+
+      <button class="menu active">
+        Meus Eventos
+      </button>
+
+      <button class="menu">
+        Registros
+      </button>
+
+      <button class="menu">
+        Configurações
+      </button>
+
+    </nav>
+
+  </aside>
+
+  <main class="admin-main">
+
+   <div class="admin-top">
+
+  <div class="top-left">
+    <button class="back-btn" onclick="voltarDashboard()">
+      Voltar
+    </button>
+
+    <h1>Gerenciamento de Eventos</h1>
+  </div>
+
+  <button class="purple-btn">
+    Criar Evento
+  </button>
+
+</div>
+
+    <div class="table">
+
+      <div class="row header">
+        <span>Evento</span>
+        <span>Status</span>
+        <span>Capacidade</span>
+      </div>
+
+      <div class="row">
+        <span>Global Tech Summit</span>
+        <span class="status purple">Publicado</span>
+        <span>425/500</span>
+      </div>
+
+      <div class="row">
+        <span>Design Workshop</span>
+        <span class="status orange">Rascunho</span>
+        <span>--/50</span>
+      </div>
+
+    </div>
+
+  </main>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
