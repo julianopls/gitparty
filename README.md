@@ -1,7 +1,5 @@
 <p align="center">
-
-# 🎉 GitParty
-
+  <h1> GitParty</h1>
 </p>
 
 <p align="center">
@@ -15,7 +13,7 @@
 
 ---
 
-# 📋 Sobre o Projeto
+#  Sobre o Projeto
 
 O **GitParty** é uma plataforma web desenvolvida para gerenciamento de eventos com controle de inscrições e capacidade limitada.
 
@@ -34,9 +32,9 @@ O protótipo inicial da interface foi desenvolvido utilizando o **Google Stitch*
 
 ---
 
-# 🚀 Funcionalidades
+#  Funcionalidades
 
-## 🔐 Autenticação
+##  Autenticação
 - Cadastro de usuários
 - Login com autenticação
 - Controle de sessão
@@ -44,7 +42,7 @@ O protótipo inicial da interface foi desenvolvido utilizando o **Google Stitch*
 
 ---
 
-## 📅 Gerenciamento de Eventos
+## Gerenciamento de Eventos
 - Criar eventos
 - Editar eventos
 - Cancelar eventos
@@ -54,7 +52,7 @@ O protótipo inicial da interface foi desenvolvido utilizando o **Google Stitch*
 
 ---
 
-## 🎫 Sistema de Inscrição
+##  Sistema de Inscrição
 - Inscrição em eventos
 - Lista de espera automática
 - Cancelamento de inscrição
@@ -62,7 +60,7 @@ O protótipo inicial da interface foi desenvolvido utilizando o **Google Stitch*
 
 ---
 
-## ⚙️ Painel Administrativo
+##  Painel Administrativo
 - Dashboard administrativo
 - Lista de inscritos
 - Gerenciamento de participantes
@@ -70,7 +68,7 @@ O protótipo inicial da interface foi desenvolvido utilizando o **Google Stitch*
 
 ---
 
-## 🌐 Interface Interativa
+## Interface Interativa
 - Toasts de confirmação
 - Feedback visual
 - Modais de confirmação
@@ -79,7 +77,7 @@ O protótipo inicial da interface foi desenvolvido utilizando o **Google Stitch*
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+#  Tecnologias Utilizadas
 
 ## Front-end
 ```txt
@@ -111,7 +109,7 @@ Figma
 
 ---
 
-# 🔐 Tela de Login / Cadastro
+#  Tela de Login / Cadastro
 
 Sistema responsável pela autenticação e criação de contas.
 
@@ -128,7 +126,7 @@ Sistema responsável pela autenticação e criação de contas.
 
 ---
 
-# 📊 Dashboard do Usuário
+#  Dashboard do Usuário
 
 Área principal com listagem de eventos disponíveis.
 
@@ -160,7 +158,7 @@ CANCELADA
 
 ---
 
-# 🎫 Detalhe do Evento
+#  Detalhe do Evento
 
 Tela completa de informações do evento.
 
@@ -180,7 +178,7 @@ Tela completa de informações do evento.
 
 ---
 
-# ⚙️ Painel Administrativo
+#  Painel Administrativo
 
 Área de gerenciamento dos eventos.
 
@@ -197,7 +195,7 @@ Tela completa de informações do evento.
 
 ---
 
-# 🌐 Componentes Globais
+#  Componentes Globais
 
 ```txt
 • Header responsivo
@@ -210,7 +208,7 @@ Tela completa de informações do evento.
 
 ---
 
-# 🎨 Estilo Visual
+#  Estilo Visual
 
 ## Características
 ```txt
@@ -225,7 +223,7 @@ Tela completa de informações do evento.
 
 ---
 
-# 🌈 Paleta de Cores
+#  Paleta de Cores
 
 | Tipo | Código |
 |------|------|
@@ -240,7 +238,7 @@ Tela completa de informações do evento.
 
 ---
 
-# 👥 Público-Alvo
+#  Público-Alvo
 
 ```txt
 • Organizadores de eventos universitários
@@ -257,7 +255,7 @@ Tela completa de informações do evento.
 
 ---
 
-# 🧠 Prompt Utilizado no Google Stitch
+#  Prompt Utilizado no Google Stitch
 
 ```txt
 Descrição do Projeto
@@ -370,7 +368,7 @@ Layout:
 
 ---
 
-# 🔗 Referências
+#  Referências
 
 ```txt
 Sympla
