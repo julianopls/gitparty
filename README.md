@@ -1,7 +1,5 @@
 <p align="center">
-
-#GitParty
-
+# GitParty
 </p>
 
 <p align="center">
