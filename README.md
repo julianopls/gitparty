@@ -1,8 +1,5 @@
 #  GitParty
 
-<p align="center">
-  <img src="./public/assets/logo.png" width="120" alt="GitParty Logo">
-</p>
 
 <p align="center">
   Plataforma moderna de gerenciamento de eventos, inscrições e organização de participantes.
@@ -11,8 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-6C3CF7">
   <img src="https://img.shields.io/badge/Node.js-Backend-2563EB">
-  <img src="https://img.shields.io/badge/Prisma-ORM-111827">
-  <img src="https://img.shields.io/badge/License-MIT-F59E0B">
 </p>
 
 ---
