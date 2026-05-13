@@ -80,8 +80,8 @@ O protótipo inicial da interface foi desenvolvido utilizando o **Google Stitch*
 
 ## Front-end
 ```txt
-HTML5
-CSS3
+HTML
+CSS
 JavaScript
 ```
 
@@ -108,8 +108,6 @@ Figma
 
 
 ---
-
-#  Telas do Sistema
 
 #  Tela de Login / Cadastro
 
@@ -245,19 +243,6 @@ Tela completa de informações do evento.
 ```txt
 Inter
 DM Sans
-```
-
----
-
-#  Responsividade
-
-Compatível com:
-
-```txt
-📱 Smartphones
-📲 Tablets
-💻 Notebooks
-🖥️ Computadores
 ```
 
 ---
@@ -401,51 +386,6 @@ Adicione aqui a screenshot da Home.
 
 ---
 
-##  Dashboard
-```txt
-Adicione aqui a screenshot do Dashboard.
-```
-
----
-
-##  Evento
-```txt
-Adicione aqui a screenshot da tela do evento.
-```
-
----
-
-##  Admin
-```txt
-Adicione aqui a screenshot do painel administrativo.
-```
-
----
-
-#  Como Executar o Projeto
-
-## Clone o repositório
-```bash
-git clone https://github.com/julianopls/gitparty.git
-```
-
-## Entre na pasta
-```bash
-cd gitparty
-```
-
-## Instale as dependências
-```bash
-npm install
-```
-
-## Execute o projeto
-```bash
-npm start
-```
-
----
-
 # 🔗 Referências
 
 ```txt
@@ -457,26 +397,6 @@ Tailwind UI
 shadcn/ui
 Lucide Icons
 Heroicons
-```
-
----
-
-#  Contribuição
-
-```txt
-1. Faça um Fork
-2. Crie uma branch
-3. Commit suas alterações
-4. Faça um Push
-5. Abra um Pull Request
-```
-
----
-
-#  Licença
-
-```txt
-MIT License
 ```
 
 ---
